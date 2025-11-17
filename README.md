@@ -73,6 +73,8 @@
       - Template - CPU_RAM_Monitoring
 
       - Save
+---------
+
 
 <ins>Шаг 2: Создание Items</ins>
 
