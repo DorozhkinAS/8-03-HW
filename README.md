@@ -223,6 +223,9 @@
       - Выбрать хосты и убедитесь, что данные собираются корректно
 
 
+<img width="1731" height="543" alt="image" src="https://github.com/user-attachments/assets/a25f82c4-65a6-4887-8f07-01d1da254f50" />
+
+
 <img width="1602" height="436" alt="image" src="https://github.com/user-attachments/assets/6bd7f44f-bc56-4994-bee5-a615dc015772" />
 
 <img width="1883" height="812" alt="image" src="https://github.com/user-attachments/assets/35288f3b-660b-4412-85f0-c3e73d02316f" />
