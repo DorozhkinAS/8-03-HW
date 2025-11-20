@@ -230,7 +230,12 @@
 
 <img width="1883" height="812" alt="image" src="https://github.com/user-attachments/assets/35288f3b-660b-4412-85f0-c3e73d02316f" />
 
+
+<img width="1717" height="817" alt="image" src="https://github.com/user-attachments/assets/5f0bcc4b-376b-4021-9426-979a86ff10cb" />
+
+
 ---
+
 
 
       ## Задание 4
