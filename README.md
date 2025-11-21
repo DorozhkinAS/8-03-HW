@@ -257,8 +257,9 @@
 ---
 ### My_dashboard выводит показания CPU и GPU hosts DorozhkinAS-1 и DorozhkinAS-2 
 
+<img width="1747" height="832" alt="image" src="https://github.com/user-attachments/assets/b0234c84-9aff-4476-9453-c67f5782ca8c" />
 
-<img width="1801" height="821" alt="image" src="https://github.com/user-attachments/assets/262d829f-66bc-48b9-b42e-0cd6b2dcdc2e" />
+<img width="801" height="470" alt="image" src="https://github.com/user-attachments/assets/608ccc75-1d23-4ecf-9f2a-6f53e2537e1d" />
 
 
 
