@@ -255,9 +255,4 @@
 
 ---
 
-<img width="1747" height="832" alt="image" src="https://github.com/user-attachments/assets/b0234c84-9aff-4476-9453-c67f5782ca8c" />
-
-<img width="801" height="470" alt="image" src="https://github.com/user-attachments/assets/608ccc75-1d23-4ecf-9f2a-6f53e2537e1d" />
-
-
-
+<img width="1786" height="832" alt="image" src="https://github.com/user-attachments/assets/1c9e3989-2c8d-4c59-9cf0-691429eb4a92" />
