@@ -146,27 +146,6 @@
 
 
 
-
-
-
-
-
-<img width="1442" height="298" alt="image" src="https://github.com/user-attachments/assets/13b98063-9f44-4d6b-b85f-6b54b075ea24" />
-
-
-<img width="1777" height="345" alt="image" src="https://github.com/user-attachments/assets/20484a08-0e02-4ffa-a856-bafa15c8f52e" />
-
-
- 
-<img width="1230" height="808" alt="Снимок экрана 2025-11-19 005252" src="https://github.com/user-attachments/assets/87a1c012-2366-4e97-ab13-fa539c2dfc0b" />
-
-<img width="990" height="748" alt="Снимок экрана 2025-11-19 010114" src="https://github.com/user-attachments/assets/43182f07-fc96-4267-8893-9888f1d76223" />
-
-<img width="1602" height="436" alt="image" src="https://github.com/user-attachments/assets/6c1477a5-3cd3-4396-825d-b904e8abddb5" />
-
-
-
-
 ---
 
 ## Задание 2
